@@ -1,0 +1,25 @@
+﻿@model IEnumerable<SignalR_Chat_Application_Database.Models.Message>
+<link href="~/css/site.css" rel="stylesheet" />
+
+@if (Model != null && Model.Any())
+{
+    foreach (var message in Model.OrderBy(m => m.When))
+    {
+        var userName = ViewBag.Email as string;
+        var containerClass = userName == message.UserName ? "container darker" : "container";
+        var timePosition = userName == message.UserName ? "time-right text-light" : "time-left";
+        var textAlign = userName == message.UserName ? "text-right text-white" : "text-left";
+        var contcolor = userName == message.UserName ? "bg-primary" : "bg-light";
+        var offset = userName == message.UserName ? "col-md-6 offset-md-6" : "";
+
+        <div class="row">
+            <div class="@offset">
+                <div class="@containerClass @contcolor">
+                    <p class="sender @textAlign">@message.UserName</p>
+                    <p class="@textAlign">@message.Text</p>
+                    <span class="@timePosition">@message.When.ToString("g")</span>
+                </div>
+            </div>
+        </div>
+    }
+}

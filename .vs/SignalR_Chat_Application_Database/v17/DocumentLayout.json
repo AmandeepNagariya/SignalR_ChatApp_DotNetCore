@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\wwwroot\\js\\broadmessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\wwwroot\\js\\broadmessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\shared\\_registerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\shared\\_registerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|c:\\users\\amandeep\\desktop\\signalr\\signalr_chat_application_database\\signalr_chat_application_database\\wwwroot\\js\\signalrreqhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}|SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database.csproj|solutionrelative:signalr_chat_application_database\\wwwroot\\js\\signalrreqhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:40:52.894Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsyncTaskMethodBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAIwK4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:36:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:32:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:38:57.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "broadmessage.js",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\broadmessage.js",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\wwwroot\\js\\broadmessage.js",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\broadmessage.js",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\wwwroot\\js\\broadmessage.js",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv0UAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T14:30:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:19:31.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Models\\Message.cs",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Models\\Message.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:44:31.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T16:41:16.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T16:49:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\appsettings.json",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T07:13:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_RegisterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_RegisterPartial.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Shared\\_RegisterPartial.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Shared\\_RegisterPartial.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Shared\\_RegisterPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T18:06:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T12:46:07.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-10T13:32:30.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:53:46.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "signalrReqHandler.js",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\signalrReqHandler.js",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\wwwroot\\js\\signalrReqHandler.js",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\signalrReqHandler.js",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\wwwroot\\js\\signalrReqHandler.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-08T15:20:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Program.cs",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Program.cs",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:03:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-08T12:32:37.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:05:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Home\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Home\\Chat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T04:28:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "SignalR_Chat_Application_Database\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Amandeep\\Desktop\\SignalR\\SignalR_Chat_Application_Database\\SignalR_Chat_Application_Database\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "SignalR_Chat_Application_Database\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:37:08.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

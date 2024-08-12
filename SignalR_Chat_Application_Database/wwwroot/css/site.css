@@ -1,0 +1,111 @@
+﻿/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* General body styling */
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 1600;
+    font-style: normal;
+    margin-bottom: 60px; /* Margin bottom for footer */
+}
+
+/* Navbar brand styling */
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Sticky footer styles */
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    height: 60px;
+    line-height: 60px; /* Vertically center the text */
+}
+
+/* Box Shadow */
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Chat containers */
+#chat .container {
+    border: 2px solid #dedede;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    font-family: 'Roboto', sans-serif; /* Apply the new font */
+    position: relative;
+}
+
+    /* Alternate colors for messages */
+    #chat .container:nth-child(even) {
+        background-color: #e9ecef;
+        border-color: #ddd;
+    }
+
+    #chat .container:nth-child(odd) {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white; /* Ensure text is visible on dark background */
+    }
+
+/* Sender name styling */
+#chat .sender {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+/* Clear floats */
+#chat .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Style images */
+#chat .container img {
+    float: left;
+    max-width: 60px;
+    width: 100%;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+    #chat .container img.right {
+        float: right;
+        margin-left: 20px;
+        margin-right: 0;
+    }
+
+/* Style time text */
+#chat .time-right {
+    float: right;
+    color: #aaa;
+}
+
+#chat .time-left {
+    float: left;
+    color: #999;
+}

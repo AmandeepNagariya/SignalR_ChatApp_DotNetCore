@@ -1,0 +1,113 @@
+﻿/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the entire chat */
+.jumbotron {
+    padding: 20px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Top message area with user info and logout button */
+.message-top {
+    margin-bottom: 15px;
+}
+
+    .message-top .text-right {
+        font-size: 16px;
+        color: #333;
+    }
+
+    .message-top form {
+        margin: 0;
+    }
+
+/* Chat message container */
+#chatContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+/* Chat message styling */
+.message {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 60%;
+}
+
+/* User's messages */
+.user-message {
+    background-color: #d0f0c0; /* Light green for user's messages */
+    align-self: flex-end;
+    text-align: right;
+}
+
+/* Recipient's messages */
+.recipient-message {
+    background-color: #fdd835; /* Orange for recipient's messages */
+    align-self: flex-start;
+    text-align: left;
+}
+
+/* Email address styling */
+.email-address {
+    font-size: 12px;
+    color: #555;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+/* Time formatting for messages */
+.message-time {
+    font-size: 12px;
+    color: #666;
+}
+
+/* Form and input styling */
+.form-control {
+    border-radius: 4px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.btn-info {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-info:hover {
+        background-color: #0056b3;
+    }
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-danger:hover {
+        background-color: #c82333;
+    }
+
+/* Additional styling for error messages */
+.text-danger {
+    color: #dc3545;
+}

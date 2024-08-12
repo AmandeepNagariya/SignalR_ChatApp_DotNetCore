@@ -1,0 +1,117 @@
+﻿@model IEnumerable<SignalR_Chat_Application_Database.Models.Message>
+
+@{
+    ViewData["Title"] = "Chat";
+    var userEmail = ViewBag.UserEmail as string;
+}
+
+<link href="~/css/site.css" rel="stylesheet" />
+
+<div class="jumbotron bg-light">
+    <h2 class="text-center text-primary">
+        <i class="fab fa-facebook-messenger"></i>&nbsp; Public Talk
+    </h2>
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12" id="chatContainer">
+                <!-- The full view content will be inserted here -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Display User Email and Logout Button in the top-right corner -->
+                <div class="d-flex justify-content-between align-items-top message-top">
+                    <div class="text-right">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <p class="mb-0">Hello, @userEmail</p>
+                        }
+                    </div>
+                    <div>
+                        <form asp-action="Logout" asp-controller="Account" method="post" style="display: inline;">
+                            <button type="submit" class="btn btn-danger">Logout</button>
+                        </form>
+            </div>
+
+
+
+
+                    <div class="row">
+                        <div class="col-md-12" id="chatContainer">
+                            @foreach (var message in Model)
+                            {
+                                <div class="@((User.Identity.Name == message.UserName) ? "container darker" : "container")">
+                                    <p class="sender @((User.Identity.Name == message.UserName) ? "text-right text-white" : "text-left")">
+                                        @message.UserName
+                                    </p>
+                                    <p class="@((User.Identity.Name == message.UserName) ? "text-right text-white" : "text-left")">
+                                        @message.Text
+                                    </p>
+                                    <span class="@((User.Identity.Name == message.UserName) ? "time-right text-light" : "time-left")">
+                                        @message.When.ToString("g")
+                                    </span>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+
+
+
+        </div>
+
+        <div class="col-md-12">
+            <form id="chatForm" asp-action="Create"
+                  method="post"
+                  data-ajax="true"
+                  data-ajax-method="POST"
+                  data-ajax-begin="clearInputField()"
+                  data-ajax-complete="handleAjaxComplete"
+                  data-ajax-failure="handleAjaxError"
+                  data-ajax-success="handleAjaxSuccess">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <input name="Text" class="form-control" id="messageText" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Send" id="submitButton" class="btn btn-info" />
+                </div>
+                <input type="hidden" value="@userEmail" name="username" />
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <script>
+        const userName = "@userEmail";
+    </script>
+}
+
+@section scripts
+{
+    <script src="~/signalr/signalr.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/chat.js"></script>
+    <script src="~/js/signalrReqHandler.js"></script>
+    <script>
+        function handleAjaxSuccess() {
+            // No need to explicitly call updateChat, form submission refreshes the whole view
+        }
+
+        function handleAjaxComplete() {
+            // Optional: handle any additional logic after AJAX request completes
+        }
+
+        function handleAjaxError() {
+            alert('Error occurred while sending the message.');
+        }
+    </script>
+}

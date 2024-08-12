@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalR_Chat_Application_Database.props" />
+</Project>

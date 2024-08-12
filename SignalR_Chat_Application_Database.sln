@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_Chat_Application_Database", "SignalR_Chat_Application_Database\SignalR_Chat_Application_Database.csproj", "{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B31A88B-3B69-4FE9-B4F3-3320B98D50B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DEEB48-E009-4093-8A9F-82FEF26B545E}
+	EndGlobalSection
+EndGlobal
